@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeWarsTotalLandPerimetr5kyu", "CodeWarsTotalLandPerimetr\CodeWarsTotalLandPerimetr5kyu.csproj", "{DB7F5CB3-651E-4FE3-AFF0-F9FE07DD5C73}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeWarsSmile6kyu", "CodeWarsSmile6kyu\CodeWarsSmile6kyu.csproj", "{E14EA8C1-0C0E-4B4E-95AA-B2E0E1A7F22F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB7F5CB3-651E-4FE3-AFF0-F9FE07DD5C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB7F5CB3-651E-4FE3-AFF0-F9FE07DD5C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB7F5CB3-651E-4FE3-AFF0-F9FE07DD5C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB7F5CB3-651E-4FE3-AFF0-F9FE07DD5C73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E14EA8C1-0C0E-4B4E-95AA-B2E0E1A7F22F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E14EA8C1-0C0E-4B4E-95AA-B2E0E1A7F22F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E14EA8C1-0C0E-4B4E-95AA-B2E0E1A7F22F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E14EA8C1-0C0E-4B4E-95AA-B2E0E1A7F22F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC2C290F-D558-45ED-9064-4ED19C8FA075}
+	EndGlobalSection
+EndGlobal
